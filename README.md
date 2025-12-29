@@ -1,4 +1,4 @@
-# Aplicativo de Controle Finaceiro Familiar com Vibe Coding
+# Aplicativo de Controle Financeiro Familiar com Vibe Coding
 
  Product Requirement Document Refinado no Copilot Web
 
